@@ -1,2 +1,2 @@
-# Ract-prac
+# React-study
 Created with CodeSandbox
